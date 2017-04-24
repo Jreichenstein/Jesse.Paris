@@ -28,7 +28,8 @@ html {
   background-size: 100% auto;}
 
 #olo {
-  background-color: #f7f7f7; }
+  background-image: url("../img/olo-bg.jpg");
+  background-size: 100% auto;}
 
 #udecide {
   background-color: #3498DB; }
