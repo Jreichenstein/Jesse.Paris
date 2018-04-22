@@ -23,6 +23,12 @@ html {
   .slide-container {
     padding-left: 60px; } }
 
+@media screen and (max-width: 640px) {
+  #pdx{
+    background-size: 100% ! important;
+  }
+}
+
 #life {
 
 }
