@@ -46,10 +46,30 @@ html {
 
 #photo {
   background-image: url("../img/photo.png");
-  background-size: 100% auto; }
+  background-size: 50% auto; }
 
 #work {
     background-color: #800020; }
+
+#coding {
+    background-color: #000000; }
+
+#design {
+  background-image: url("../img/pink dust.png");
+  background-size: 25% auto; }
+
+#Dribble{
+  float: left;
+  margin-left: 25%;
+}
+
+#Behance{
+  float: right;
+  margin-right: 25%;
+}
+
+#Github{
+}
 
 .button-black {
   display: inline-block;
@@ -104,7 +124,7 @@ a {
 
 .sticky-title {
   position: absolute;
-  top: 40%;
+  top: 30%;
   margin: 0;
   overflow: hidden;
   text-align: center;
