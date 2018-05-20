@@ -36,7 +36,7 @@ textarea {
   background-color: white; }
 
 .bg-tan {
-  background-color: #ebebd7;}
+  background-color: #E9E8E4;}
 
 .white {
   color: white; }
@@ -350,11 +350,11 @@ textarea {
   .width-80 {
     width: 100%; } }
 .small-type {
-  font-size: 0.85em; }
+  font-size: 1.5em; }
 
 .big-type {
   font-size: 2em;
-  line-height: 1.125em; }
+  line-height: 1.5em; }
 
 .line-thru {
   text-decoration: line-through; }
